@@ -1,0 +1,7 @@
+[bugtraq]
+	url = https://github.com/Vankog/Processing-Pendulum/issues/%BUGID%
+	warnifnoissue = true
+	label = "Vankog/Processing-Pendulum#"
+	logregex = "\\S+\\/\\S+#(\\d+)"
+	providerparams = "owner=Vankog;repository=Processing-Pendulum;keyword=<None>;reffullrepo=True;showprsbydefault=True"
+	provideruuid64 = {B2C6EC0F-8742-4792-9FDC-10635D2C118B}
